@@ -39,16 +39,16 @@ Visualize various aspects of our pizza sales data to gain insights and understan
 - Top 5 Best Seller by Revenue, Total Quantity and Total Orders
 - Bottom 5 Best Seller by Revenue, Total Quantity and Total Orders
 
-  ### Tools Used
-  - Excel
-  - My SQL
-  - Power BI
+### Tools Used
+- Excel
+- My SQL
+- Power BI
 
-  ### Skills
-  - Data Cleaning
-  - Data Analysis
-  - Data Manipulation
-  - Data Visualization
+### Skills
+- Data Cleaning
+- Data Analysis
+- Data Manipulation
+- Data Visualization
  
 ### Insights
 - Busiest days and time
