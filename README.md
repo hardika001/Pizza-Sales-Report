@@ -3,17 +3,17 @@
 ![Screenshot 2023-11-22 164547](https://github.com/hardika001/Pizza-Sales-Report/assets/141905140/d29b2dcd-05f5-48b2-a672-0edb3d4038de)
 
 ## Table Of Content
-[Problem Statement](Problem-Statement)
+[Problem Statement](#Problem-Statement)
 
-[KPI's Requirement](KPI's-Requirement)
+[KPI's Requirement](#KPI's-Requirement)
 
-[Chart's Requirement](Chart's-Requirement)
+[Chart's Requirement](#Chart's-Requirement)
 
-[Tools Used](Tools-Used)
+[Tools Used](#Tools-Used)
 
-[Skills](Skills)
+[Skills](#Skills)
 
-[Insights](Insights)
+[Insights](#Insights)
 
 ## Problem Statement
 We have to analyze the pizza dateset given by our client and help them in finding KPI's, other important insights and convert them into proper visuals so that they can understand easily
